@@ -1,0 +1,44 @@
+body{
+	background-image: url(images/fon.png) ;
+	background-size: 100%;
+}
+
+audio{
+	border: 2px solid black;
+	border-radius: 100px;
+	margin-top: 40px;
+}
+#LaL{
+	left: 315px;
+	position: relative;
+	bottom: 50px;
+	font-size: 18px;
+	font-family: cursive;
+	border: 2px solid black;
+	margin-right: 1560px;
+	padding-left: 6px;
+	border-radius: 55px;
+	background-color: #ffffff;
+}
+#LaL2{
+	left: 315px;
+	position: relative;
+	bottom: 50px;
+	font-size: 18px;
+	font-family: cursive;
+	border: 2px solid black;
+	margin-right: 1560px;
+	padding-left: 6px;
+	border-radius: 55px;
+	background-color: #ffffff;
+}
+#img{
+	position: relative;
+	left: 500px;
+}
+#do{
+	left: 800px;
+	position: relative;
+	border-bottom: 2px solid green;
+	margin-right: 1400px;
+}
